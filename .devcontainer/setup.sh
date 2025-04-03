@@ -31,6 +31,5 @@ wget -q https://raw.githubusercontent.com/naksh-07/Automate/refs/heads/main/thor
 # Download and execute external scripts in WORKSPACE
 cd "/workspaces/nodehai"
 curl -sSLO https://raw.githubusercontent.com/naksh-07/Automate/refs/heads/main/gaianet.sh && bash gaianet.sh
-curl -sSLO https://raw.githubusercontent.com/naksh-07/Automate/refs/heads/main/ognode.sh && bash ognode.sh
 
 echo "✅ Setup complete! ULTRA OPTIMIZED Codespace is READY 🚀🔥"
